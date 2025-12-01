@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Under The Same Sky",
+  "base_artist": "MIYAVI",
+  "createdAt": "2025-12-01T05:32:33.423019Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Under the same sky",
+      "artist": "Highasakite",
+      "has_synced": true,
+      "path": "select/01_Under_the_same_sky_Highasakite.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Under the same Sky",
+      "artist": "Thy Majestie",
+      "has_synced": true,
+      "path": "select/02_Under_the_same_Sky_Thy_Majestie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Under the Same Sky",
+      "artist": "Leah Dizon",
+      "has_synced": true,
+      "path": "select/03_Under_the_Same_Sky_Leah_Dizon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Under the Same Sky",
+      "artist": "Slowheal",
+      "has_synced": false,
+      "path": "select/04_Under_the_Same_Sky_Slowheal.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Under the Same Sky",
+      "artist": "The Dollyrots",
+      "has_synced": false,
+      "path": "select/05_Under_the_Same_Sky_The_Dollyrots.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Under The Same Sky",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_Under_The_Same_Sky_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Under The Same Sky",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/07_Under_The_Same_Sky_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Under The Same Sky",
+      "artist": "MIYAVI",
+      "has_synced": true,
+      "path": "select/08_Under_The_Same_Sky_MIYAVI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Dancing Under The Same Sky (Edit)",
+      "artist": "Folamour",
+      "has_synced": true,
+      "path": "select/09_All_Dancing_Under_The_Same_Sky_(Edit)_Folamour.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Under The Same Sky",
+      "artist": "Raoul Vignal",
+      "has_synced": false,
+      "path": "select/10_Under_The_Same_Sky_Raoul_Vignal.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Under the Same Sky",
+      "artist": "Sleeping Pulse",
+      "has_synced": true,
+      "path": "select/11_Under_the_Same_Sky_Sleeping_Pulse.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Under the Same Sky",
+      "artist": "Hinode",
+      "has_synced": true,
+      "path": "select/12_Under_the_Same_Sky_Hinode.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You and I, Under the Same Sky",
+      "artist": "Tengger Cavalry",
+      "has_synced": false,
+      "path": "select/13_You_and_I,_Under_the_Same_Sky_Tengger_Cavalry.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "as long as we're under the same sky",
+      "artist": "plastic memories.",
+      "has_synced": false,
+      "path": "select/14_as_long_as_we're_under_the_same_sky_plastic_memories..txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Under The Same Sky",
+      "artist": "Sleeping Pulse",
+      "has_synced": false,
+      "path": "select/15_Under_The_Same_Sky_Sleeping_Pulse.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "under the same sky",
+      "artist": "urata naoya (AAA)",
+      "has_synced": false,
+      "path": "select/pl_01_under_the_same_sky_urata_naoya_(AAA).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "under the same sky",
+      "artist": "urata naoya (AAA)",
+      "has_synced": false,
+      "path": "select/pl_02_under_the_same_sky_urata_naoya_(AAA).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Under The Same Sky",
+      "artist": "urata naoya (AAA)",
+      "has_synced": false,
+      "path": "select/pl_03_Under_The_Same_Sky_urata_naoya_(AAA).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Under the same sky",
+      "artist": "urata naoya (AAA)",
+      "has_synced": false,
+      "path": "select/pl_04_Under_the_same_sky_urata_naoya_(AAA).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Under The Same Sky",
+      "artist": "urata naoya (AAA)",
+      "has_synced": false,
+      "path": "select/pl_05_Under_The_Same_Sky_urata_naoya_(AAA).txt"
+    }
+  ]
+}
